@@ -16,16 +16,7 @@ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
-
-Project Structure
-
-quiz-game/
-│
-├── index.html      # Main HTML structure
-├── style.css       # Styling and responsive design
-├── script.js       # Quiz logic and interactivity
-└── README.md       # Project documentation
+- JavaScript (ES6) 
 
 How It Works
 
